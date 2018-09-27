@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../crm_client/client-crm.iml" filepath="$PROJECT_DIR$/../crm_client/client-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wms_client/client-crm (1).iml" filepath="$PROJECT_DIR$/../wms_client/client-crm (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wms_client/client-wms.iml" filepath="$PROJECT_DIR$/../wms_client/client-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server.iml" filepath="$PROJECT_DIR$/server.iml" />
+    </modules>
+  </component>
+</project>
